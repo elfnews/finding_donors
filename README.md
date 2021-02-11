@@ -24,5 +24,7 @@ or
 ```bash
 jupyter notebook finding_donors.ipynb
 ```
-
+or
+```bash
 Alternatively you can open the **finding_donors_raw.py** in your favorite Python IDE and run it.
+```
